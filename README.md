@@ -14,7 +14,9 @@
 ---
 
 
-Название идеи: Bulb
+Кодовое название проекта: Bаlb
+
+# [Подробный бизнес-анализ](https://github.com/teetraise/startups/blob/week2/balb_business_analysis.docx)
 
 ## Шаг 1. Идея продукта и проблема
 
