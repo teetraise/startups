@@ -16,7 +16,8 @@
 
 Кодовое название проекта: Bаlb
 
-# [Подробный бизнес-анализ](https://github.com/teetraise/startups/blob/week2/balb_business_analysis.docx)
+# [Подробный бизнес-анализ (файл)](https://github.com/teetraise/startups/blob/week2/balb_business_analysis.docx)
+## [Старые идеи (неделя 1)](https://github.com/teetraise/startups/tree/main)
 
 ## Шаг 1. Идея продукта и проблема
 
