@@ -19,6 +19,7 @@
 # [Подробный бизнес-анализ (файл)](https://github.com/teetraise/startups/blob/week2/balb_business_analysis.docx)
 ## [Старые идеи (неделя 1)](https://github.com/teetraise/startups/tree/main)
 
+# Кратко о Balb 
 ## Шаг 1. Идея продукта и проблема
 
 **Balb** — мобильная платформа (iOS + Web) с пользовательским контентом и двумя игровыми режимами:
